@@ -1,0 +1,16 @@
+{
+  "name": "challenge-naida",
+  "version": "1.0.0",
+  "description": "Cipher challenge",
+  "main": "cipher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dnaida",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.11.0",
+    "eslint-cli": "^1.1.1"
+  }
+}
